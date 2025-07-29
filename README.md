@@ -43,6 +43,6 @@ Future Improvements:
 - Add user authentication system
 - GUI version
 
-📬 Contact:
+Contact:
 -----------
 For feedback or suggestions, feel free to open an issue or connect with me.
